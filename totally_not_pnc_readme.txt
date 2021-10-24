@@ -1,0 +1,1 @@
+So basically, what this does is that you might have seen a lot of questions that ask about the number of triangles that can be formed using the dot array provided. In layman's term it tell you that in a 9 dot space you can create 84 triangles!
