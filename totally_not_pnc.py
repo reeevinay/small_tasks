@@ -29,18 +29,5 @@ if Answer == "y":
         print(fact(product) / (fact(3)*fact(product-3)))
     
     nCr(product)
-    #     def fact(n):
- 
-    #     res = 1
-     
-    #     for i in range(2, n+1):
-    #     res = res * i
-         
-    #     return res
- 
-    # # Driver code
-    # n = 5
-    # r = 3
-    # print(int(nCr(n, r)))
 else:
     print('welp')
